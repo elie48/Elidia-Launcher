@@ -1,7 +1,7 @@
 {
     "name": "Elida-Launcher",
     "preductname": "Elidia Launcher",
-    "version": "2.1.4",
+    "version": "2.1.5",
     "description": "Launcher Mincraft pour le serveur Elidia Skyblock",
     "main": "src/app.js",
     "author": {
