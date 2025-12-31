@@ -1,15 +1,15 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "Elida-Launcher",
+    "preductname": "Elidia Launcher",
     "version": "2.1.4",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "description": "Launcher Mincraft pour le serveur Elidia Skyblock",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
+        "name": "luuxis, elie48, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://launcher.luuxis.fr",
+    "url": "https://www.elidia.adkynet.fr/Launcher",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
@@ -38,7 +38,7 @@
         "png2icons": "^2.0.1"
     },
     "repository": {
-        "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "type": "git",   
+        "url": "git+https://github.com/elie48/Elidia-Launcher.git"
     }
 }
